@@ -124,8 +124,8 @@ class _TicketPageState extends State<TicketPage> with TickerProviderStateMixin {
   static const double kInnerEnd   = 1.00;
 
   // Colors
-  static const Color kOuterColor = Color(0xFFCD530C);
-  static const Color kRingColor  = Color(0xFFA83B00);
+  static const Color kOuterColor = Color(0xFF00A676);
+  static const Color kRingColor  = Color(0xFF008A63);
 
   @override
   void initState() {
